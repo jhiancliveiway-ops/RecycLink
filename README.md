@@ -1,5 +1,5 @@
-# Recyclink.github.io
-<!DOCTYPE html>
+# Recyclink
+<Trash for Goods>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -7,14 +7,14 @@
 
 <style>
 body{
-    font-family: Arial;
-    background:#f4f4f4;
+    font-family: Georgia;
+    background:#868282;
     text-align:center;
     margin-top:100px;
 }
 
 .container{
-    background:white;
+    background:gray;
     width:300px;
     margin:auto;
     padding:20px;
@@ -54,7 +54,7 @@ button{
 
 <br>
 
-<button onclick="redeemCode()">Redeem</button>
+<button onclick="PislitaKoKol()">Redeem</button>
 
 <p id="message"></p>
 
